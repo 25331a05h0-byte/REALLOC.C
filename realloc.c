@@ -22,6 +22,7 @@ int main() {
     for(i = 0; i < 5; i++) {
         printf("%d ", ptr[i]);
     }
+  printf(“\n               25331A05H0”);
 
     free(ptr);
 
